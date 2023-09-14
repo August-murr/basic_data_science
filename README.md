@@ -1,6 +1,8 @@
 # Data Analysis Project
 
-Welcome to this Data Analysis Project! This repository showcases my skills in data analysis, data visualization, and data preprocessing. The primary goal of this portfolio is to demonstrate my proficiency in extracting insights from datasets and providing actionable recommendations.
+Welcome to this Data Analysis Project! This repository showcases my skills in data analysis, data visualization, and data preprocessing. 
+The primary goal of this portfolio is to demonstrate my proficiency in extracting insights from datasets and providing actionable recommendations.
+
 Keep in mind that most of the codes and comments in this notebook were written or rewritten with the help of ChatGPT.
 
 ## Dataset
