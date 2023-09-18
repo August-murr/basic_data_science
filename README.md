@@ -3,6 +3,8 @@
 Welcome to this Data Analysis Project! This repository showcases my skills in data analysis, data visualization, and data preprocessing. 
 The primary goal of this portfolio is to demonstrate my proficiency in extracting insights from datasets and providing actionable recommendations.
 
+As a way to present the insights discovered from this analysis, I wrote a Medium Article to explain and visualize my findings from the perspective of a data analyst advising a Record Label Manager. You can find the link to the article here: [Medium Article](https://medium.com/@moh.murr/squeezing-every-last-stream-how-to-ruin-artistic-freedom-for-money-with-spotify-data-839d9060a780)
+
 Keep in mind that most of the codes and comments in this notebook were written or rewritten with the help of ChatGPT.
 
 ## Dataset
