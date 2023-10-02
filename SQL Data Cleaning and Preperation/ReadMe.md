@@ -35,7 +35,7 @@ To explore this project, you can follow these steps:
 
 ## Additional Information
 
-For any inquiries or further information, please feel free to contact me at [moh.murr@gmail.com].
+For any inquiries or further information, please feel free to contact me at moh.murr@gmail.com.
 
 Thank you for exploring this SQL data analysis and visualization project.
 
