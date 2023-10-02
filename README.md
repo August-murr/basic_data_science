@@ -19,6 +19,7 @@ To explore the projects within this repository, simply navigate to the individua
 ## Contact
 
 For inquiries, collaborations, or further information, please reach out to me.
+
 Email: moh.murr@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/muhammed-moharrami/)
