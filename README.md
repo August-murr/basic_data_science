@@ -8,9 +8,9 @@ Welcome to the **Data Science Demonstration** repository! This repository serves
 
 Each project is accompanied by detailed documentation and explanations to provide insights into the problem statement, data analysis techniques, and outcomes.
 
-## Collaboration with ChatGPT
+### Collaboration with ChatGPT
 
-These projects have been developed in collaboration with ChatGPT, a versatile language model created by OpenAI. ChatGPT provides assistance and expertise in various aspects of data science, from formulating queries to providing code examples and explanations.
+These projects have been developed in collaboration with ChatGPT. ChatGPT provides assistance and expertise in various aspects of data science, from formulating queries to providing code examples and explanations.
 
 ## Get Started
 
