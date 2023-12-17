@@ -12,14 +12,12 @@ The dataset includes four language pairs, and I selected "English to Thai" since
 
 The model is a transformer with over 600 million parameters. Given the constraints of using Google Colab's free GPU, full fine-tuning was not a viable option. To overcome this limitation, I employed the Parameter-Efficient Fine-Tuning (PEFT) library by Hugging Face and utilized a LORA (Low-Rank Adapter) to train the model.
 
-Additionally, I converted all the weights from 32-bit floats to 16-bit floats, significantly reducing the required computing power without a substantial performance drop. This not only enhances efficiency but also helps prevent catastrophic forgetting, which can have severe consequences.
+Additionally, I converted all the weights from 32-bit floats to 16-bit floats, significantly reducing the required computing power without a substantial performance drop. This not only enhances efficiency but also helps prevent catastrophic forgetting.
 
 ## Customization and Adaptability
 
 With just a few lines of changes in the notebook, you can train an adapter for a different language pair or a different dataset, adjusting the sizes of adapters as needed.
 
 ---
-
-*Note: Ensure you have the necessary libraries, datasets, and dependencies installed before running the notebook.*
 
 
