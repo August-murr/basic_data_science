@@ -21,5 +21,3 @@ Email: moh.murr@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/muhammed-moharrami/)
 
-Thank you for visiting the Data Science Demonstration Repository!
-
