@@ -1,6 +1,6 @@
 # Data Science Demonstration Repository
 
-Welcome to the **Data Science Demonstration** repository! This repository serves as a showcase for various data science-related projects that I have undertaken with the assistance of ChatGPT.
+Welcome to the **Data Science Demonstration** repository! This repository serves as a showcase for various data science-related projects.
 
 ## About the Repository
 
