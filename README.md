@@ -1,7 +1,3 @@
-# Data Science Demonstration Repository
-
-Welcome to the **Data Science Demonstration** repository! This repository serves as a showcase for various data science-related projects.
-
 ## About the Repository
 
 - **Purpose:** This repository is dedicated to showcasing a collection of data science projects, each designed to explore and analyze different aspects of data, from data cleaning and preparation to advanced analytics, Machine Learning and visualization.
